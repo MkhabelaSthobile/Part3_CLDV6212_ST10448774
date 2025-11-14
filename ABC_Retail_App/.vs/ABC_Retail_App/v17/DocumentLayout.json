@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372CBAE1-BD12-4CAE-B3D0-D8D5DFE0C6E1}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abcretailers.functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\views\\home\\customerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:views\\home\\customerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:views\\home\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372CBAE1-BD12-4CAE-B3D0-D8D5DFE0C6E1}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abcretailers.functions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\services\\ifunctionsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:services\\ifunctionsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\services\\functionsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:services\\functionsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|c:\\users\\sithobile mkhabela\\onedrive\\desktop\\part3_cldv6212_st10448774\\abc_retail_app\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7004A95B-6977-4565-94D6-D00AF91F14C4}|ABC_Retail_App.csproj|solutionrelative:views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwG8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:33:58.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABCRetailers.Functions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABCRetailers.Functions\\Program.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:33:41.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T21:33:02.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:17:37.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T20:59:05.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\CustomerDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CustomerDashboard.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\CustomerDashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\CustomerDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T21:08:35.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\AdminDashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T21:07:34.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:02:43.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:02:36.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv6YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:02:25.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:01:55.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAcwAgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:33:48.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:01:39.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAUwFwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:00:47.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T20:59:13.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T20:58:52.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:30:54.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABCRetailers.Functions\\local.settings.json",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\local.settings.json",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABCRetailers.Functions\\local.settings.json",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T12:10:19.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T12:51:33.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFunctionsApi.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Services\\IFunctionsApi.cs",
+              "RelativeDocumentMoniker": "Services\\IFunctionsApi.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Services\\IFunctionsApi.cs",
+              "RelativeToolTip": "Services\\IFunctionsApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:19:52.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FunctionsApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Services\\FunctionsApiClient.cs",
+              "RelativeDocumentMoniker": "Services\\FunctionsApiClient.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Services\\FunctionsApiClient.cs",
+              "RelativeToolTip": "Services\\FunctionsApiClient.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:19:48.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T11:55:18.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T11:25:22.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T12:33:24.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Sithobile Mkhabela\\OneDrive\\Desktop\\Part3_CLDV6212_ST10448774\\ABC_Retail_App\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:38:42.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

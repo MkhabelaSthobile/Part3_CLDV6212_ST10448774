@@ -1,0 +1,91 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+/* Override Bootstrap button colors */
+.btn-primary {
+    background-color: #0d1b2a; /* Dark blue */
+    border-color: #0d1b2a;
+    color: #fff;
+}
+
+.btn-success {
+    background-color: #1b263b; /* Greyish dark blue */
+    border-color: #1b263b;
+    color: #fff;
+}
+
+.btn-warning {
+    background-color: #415a77; /* Steel blue */
+    border-color: #415a77;
+    color: #fff;
+}
+
+.btn-danger {
+    background-color: #e63946; /* Deep red */
+    border-color: #e63946;
+    color: #fff;
+}
+
+.btn-info {
+    background-color: #778da9; /* Light/baby blue */
+    border-color: #778da9;
+    color: #fff;
+}
+
+    /* Optional: hover effects */
+    .btn-primary:hover,
+    .btn-success:hover,
+    .btn-warning:hover,
+    .btn-danger:hover,
+    .btn-info:hover {
+        opacity: 0.85;
+    }
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+.modal-body,
+.modal-title {
+    color: #000 !important;
+    opacity: 1 !important; /* removes the faded look */
+}
+

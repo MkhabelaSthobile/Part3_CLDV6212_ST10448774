@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ABC_Retail_App</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+
+    <style>
+        /* Navbar Styling */
+        .navbar-dark {
+            background-color: #000000 !important; /* Pure black top bar */
+        }
+
+            .navbar-dark .nav-link {
+                color: #cfd8dc !important; /* soft grey-blue text */
+            }
+
+                .navbar-dark .nav-link:hover {
+                    color: #90caf9 !important; /* light/baby blue hover */
+                }
+
+        .navbar-brand {
+            color: #ffffff !important;
+            font-weight: bold;
+        }
+
+        /* Main Content Background */
+        body {
+            background-color: lightsteelblue; 
+            color: #e0e0e0; /* light text for readability */
+        }
+
+        main {
+            background-color: #2a2d38; /* slightly lighter dark panel */
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
+        }
+
+        /* Alerts */
+        .alert-success {
+            background-color: #263238;
+            color: #81c784; /* green success text */
+            border: none;
+        }
+
+        .alert-danger {
+            background-color: #263238;
+            color: #e57373; /* red error text */
+            border: none;
+        }
+
+        /* Footer */
+        footer {
+            background-color: #111418 !important;
+            color: #90a4ae !important;
+        }
+
+            footer a {
+                color: #90caf9 !important;
+            }
+
+                footer a:hover {
+                    color: #64b5f6 !important;
+                }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <i class="fas fa-store"></i> ABC Retailers
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index"><i class="fas fa-home"></i> Home</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Customer" asp-action="Index"><i class="fas fa-users"></i> Customers</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Product" asp-action="Index"><i class="fas fa-box"></i> Products</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Order" asp-action="Index"><i class="fas fa-shopping-cart"></i> Orders</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Upload" asp-action="Index"><i class="fas fa-upload"></i> Upload Files</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy"><i class="fas fa-shield-alt"></i> Privacy</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-area="" asp-controller="Home" asp-action="ContactUs"><i class="fas fa-phone"></i> Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container-fluid mt-3">
+        <main role="main" class="pb-3">
+            <!-- Alert Messages -->
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                    <i class="fas fa-check-circle"></i> @TempData["Success"]
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            }
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    <i class="fas fa-exclamation-circle"></i> @TempData["Error"]
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            }
+
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer bg-dark text-white text-center py-3 mt-auto">
+        <div class="container">
+            <p>&copy; 2025 - ABC Retailers. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
